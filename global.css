@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-erica-one: "Erica One";
+  --font-anonymous-pro: "Anonymous Pro";
+
+  /* font sizes */
+  --font-size-51xl: 70px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-mediumblue: #392bdd;
+}
